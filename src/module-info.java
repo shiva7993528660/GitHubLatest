@@ -1,3 +1,3 @@
 module GitHub {
-	//commited to new Branch
+	//commited to new Branch merge
 }
