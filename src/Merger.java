@@ -5,7 +5,7 @@ public class   Merger {
         public static void main(String[] args) {
             System.out.println("Hello, this is a merge Branch!");
             System.out.println("Hello, this is a merge Branch!");
-            System.out.println("Hello, this is a merge Branch!");
+            System.out.println("Hello, this is a merge 1!");
         }
     }
 }
